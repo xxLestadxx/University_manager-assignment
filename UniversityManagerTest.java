@@ -1,8 +1,3 @@
-/* 
- * Student number : 2422647
- * CSCU9A3
- * version: November2016
- */
 
 package assignment2016UniPeopleManagementQUESTION;
 
